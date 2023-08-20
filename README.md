@@ -34,7 +34,7 @@ To play the game, you have two options:
 - `highscores.txt`: File storing the past coin-collecting high scores.
   
 ## Future Enhancements
-We plan to implement the following features in future releases:
+Possible features in future releases:
 - Power-ups for the player.
 - Higher difficulty levels.
 
