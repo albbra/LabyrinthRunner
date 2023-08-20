@@ -29,9 +29,9 @@ To play the game, you have two options:
 - `.gitattributes`: Git attributes file for configuring Git behavior.
 - `.project`: Eclipse project file .
 - `LICENSE`: License file specifying the project's licensing terms.
+- `LabyrinthRunner.jar`: Executable JAR file to run the game.
 - `README.md`: This README file.
 - `highscores.txt`: File storing the past coin-collecting high scores.
-- `LabyrinthRunner.jar`: Executable JAR file to run the game.
   
 ## Future Enhancements
 We plan to implement the following features in future releases:
